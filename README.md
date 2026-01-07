@@ -1,1 +1,1 @@
-# vaja5_tipke_LED_utripanje
+#  Vaja5-buttons-LED-STM32F0
