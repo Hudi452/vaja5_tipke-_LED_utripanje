@@ -11,3 +11,4 @@ zealenaLED:PC9\
 modraLED:PC8
 
 Pinout mikroprocesorja:\
+![pinout](https://github.com/Hudi452/Vaja5-buttons-LED-STM32F0/blob/main/Pinout_konfiguracija.png)
