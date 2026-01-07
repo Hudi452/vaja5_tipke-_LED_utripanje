@@ -7,7 +7,7 @@ T3: PB12\
 T4: PB13\
 T5: PB14\
 T6: PB15\
-zealena LED: PC9\
+zelena LED: PC9\
 modra LED: PC8
 
 Pinout mikroprocesorja:\
